@@ -1,17 +1,12 @@
 * {
-    font-family: "helvetica nenu", helvetica, arial
-}
-
-
-/* 
-* {
+    font-family: "helvetica nenu", helvetica, arial;
     border: 1px solid black
-} */
+}
 
 ;
 .container {
     margin: 0 auto;
-    width: 1100px;
+    width: 1120px;
 }
 
 .container-fluid {
@@ -37,13 +32,16 @@ header {
 }
 
 .cho {
-    background: rgba(10, 1, 19, 0.8);
+    background: rgba(1, 5, 53, 0.85);
     height: 50px;
 }
 
 header {
     background: rgb(17, 8, 70);
 }
+
+
+/* @media screen and (max-width:720px) { */
 
 nav {
     /* padding: 10px; */
